@@ -1,0 +1,33 @@
+.pink .header__name {
+    background-color:#b42ea5;
+}
+
+
+.pink .navigation__list {
+    background-color: #f271e3;
+}
+
+.pink .selfie__button:hover {
+    background-color: #b42ea5;
+}
+
+.pink .selfie {
+    border: 5px outset #f271e3;
+}
+
+.pink .section__header {
+    background-color: #f271e3;
+}
+
+
+.pink .section__conclusion {
+    color: #b42ea5;
+}
+
+.pink .section__link:hover {
+    color: #b42ea5;
+}
+
+.pink .footer {
+    background-color: #b42ea5;
+}

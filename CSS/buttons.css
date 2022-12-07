@@ -1,0 +1,27 @@
+.imageHide {
+    display: none;
+}
+
+.selfie__button {
+    background-color: #979797;
+    margin-bottom: 100px;
+    font-family: 'Lato', sans-serif;
+    border-radius: 20px;
+}
+
+.selfie__button:hover {
+    background-color: #118a8a;
+    border-style: dotted;
+}
+
+.selfie {
+    border: 5px outset #118a8a;
+    border-radius: 50%;
+    filter: drop-shadow(8px 8px 4px #b3b3b3);
+}
+
+.theme__button {
+    background-color: #979797;
+    margin-bottom: 50px;
+    border-radius: 20px;
+}

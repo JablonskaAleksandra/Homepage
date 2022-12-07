@@ -1,0 +1,59 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.page {
+    background-color: #efefef;
+    text-align: center;
+    margin: auto;
+    max-width: 1000px;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    line-height: 2;
+}
+
+
+
+
+
+.page__astroLink {
+    color: #000;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+.page__astroLink:hover {
+    color: #17a0a0;
+    text-decoration: underline;
+
+}
+
+.page__socialmedia {
+    font-weight: bold;
+
+}
+
+.page__socialmediaLink:hover {
+    background-color: #17a0a0;
+}
+
+.page__socialmediaLink:hover {
+    background-color: #17a0a0;
+}
+
+.login {
+    color: #000000;
+}
+
+
+
+
+
+
+
