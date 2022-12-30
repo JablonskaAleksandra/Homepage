@@ -57,16 +57,18 @@ and this is a code example
 ```
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: complete
 
 
 &nbsp;
 
 ## 🙋‍♂️ Feel free to contact me
-Write sth nice ;) Find me on...
+Write sth nice ;) Find me on:
+
+[Facebook](https://www.facebook.com/profile.php?id=100000886447163)
 
 
 &nbsp;
 
-## 👏 Thanks / Special thanks / Credits
-Thanks to my [Mentor - devmentor.pl](https://devmentor.pl/) – for providing me with this task and for code review.
+## 👏 Special thanks
+Thanks to my Mentros from (https://youcode.pl/) – for providing me with this task and for code review.
