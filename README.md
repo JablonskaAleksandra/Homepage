@@ -11,7 +11,7 @@ https://jablonskaaleksandra.github.io/homepage/
 # Demo
 
 ![screen or GIF of your app]
-(images/homepageGif.png)
+(./images/homepageGif.png)
 
 
 **Main features**:
@@ -19,7 +19,7 @@ https://jablonskaaleksandra.github.io/homepage/
 - option to hide the photo on the page
 
 ## Screenshots
-(images/homepageScreenshot.png)
+(./images/homepageScreenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 &nbsp;
