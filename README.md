@@ -10,15 +10,14 @@ https://jablonskaaleksandra.github.io/homepage/
 
 # Demo
 
-![screen or GIF of your app]
-(https://raw.githubusercontent.com/JablonskaAleksandra/homepage/main/images/homepageGif.gif)
+![screen or GIF of your app](https://raw.githubusercontent.com/JablonskaAleksandra/homepage/main/images/homepageGif.gif)
 
 **Main features**:
 - option to switch backgrounds on the page
 - option to hide the photo on the page
 
 ## Screenshots
-(https://raw.githubusercontent.com/JablonskaAleksandra/homepage/main/images/homepageScreenshot.png)
+![alt text](https://raw.githubusercontent.com/JablonskaAleksandra/homepage/main/images/homepageScreenshot.png)
 
 
 &nbsp;
