@@ -10,17 +10,15 @@ https://jablonskaaleksandra.github.io/homepage/
 
 # Demo
 
-![screen or GIF of your app]
-(images/homepageGif.png)
-
+![screen or GIF of your app](https://raw.githubusercontent.com/JablonskaAleksandra/homepage/main/images/homepageGif.gif)
 
 **Main features**:
 - option to switch backgrounds on the page
 - option to hide the photo on the page
 
 ## Screenshots
-(images/homepageScreenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+![alt text](https://raw.githubusercontent.com/JablonskaAleksandra/homepage/main/images/homepageScreenshot.png)
+
 
 &nbsp;
  
@@ -40,25 +38,38 @@ Are you interested in the course of my study come and see my next project [Inter
  
 ## 🤔 Solutions provided in the project
 
-????
+I created this project on the basis of the guidance provided in the materials from the previously mentioned course. In addition, I was inspired by looking at the sites of other course participants.
 
 
 ## 💭 Conclusions for future projects
 
-I would like to improve...
+I would like to improve my JavaScript coding skills. In theory, the option to change the background and hide the page seemed simple, but practically it took me time to achieve the desired effect and proved more difficult than I thought.
 
 #### This is the first issue:
 ```
-and this is a code example
+let selfie = document.querySelector(".selfie");
+let selfieButton = document.querySelector(".js-selfieButton");
+let selfieCaptionChange = document.querySelector(".js-CaptionChange");
+
+
+selfieButton.addEventListener("click", () => {
+    selfie.classList.toggle("imageHide");
+    if (selfie.classList.contains("imageHide")) {
+        selfieCaptionChange.innerText = "Pokaż zdjęcie";
+    }
+    else {
+        selfieCaptionChange = "Ukryj zdjęcie";
+    }
+});
 ```
 
-#### This is the second issue:
-```
-and this is a code example
-```
+I had trouble understanding the syntax of the language and could not use the right phrases to make the function work properly.
+
 
 ## Project Status
 Project is: complete
+
+The project was completed because I completed all the tasks that were stipulated as part of the homework. The work was graded positively, so I tackled the next required project.
 
 
 &nbsp;
