@@ -32,7 +32,8 @@ https://jablonskaaleksandra.github.io/homepage/
  
 ## 🔗 See also
 
-Are you interested in the course of my study come and see my next project [Interesting Project Name](tutaj link).
+Are you interested in the course of my study ?
+Come and see my next project 👉 [💰 Currency Converter 💰](https://jablonskaaleksandra.github.io/currency-converter/).
 
 &nbsp;
  
@@ -77,7 +78,7 @@ The project was completed because I completed all the tasks that were stipulated
 ## 🙋‍♂️ Feel free to contact me
 Write sth nice ;) Find me on:
 
-[Facebook](https://www.facebook.com/profile.php?id=100000886447163)
+[Facebook](https://www.facebook.com/profile.php?id=100000886447163) or [Instagram](https://www.instagram.com/_nemeyeth_/) 
 
 
 &nbsp;
