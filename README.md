@@ -16,9 +16,6 @@ https://jablonskaaleksandra.github.io/homepage/
 - option to switch backgrounds on the page
 - option to hide the photo on the page
 
-### Screenshots
-![homepage](https://raw.githubusercontent.com/JablonskaAleksandra/homepage/main/images/homepageScreenshot.png)
-
 
 &nbsp;
  
@@ -84,4 +81,4 @@ Write sth nice ;) Find me on:
 &nbsp;
 
 ## 👏 Special thanks
-Thanks to my Mentros from (https://youcode.pl/) – for providing me with this task and for code review.
+Thanks to my Mentors from (https://youcode.pl/) – for providing me with this task and for code review.
