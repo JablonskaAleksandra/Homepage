@@ -16,9 +16,6 @@ https://jablonskaaleksandra.github.io/homepage/
 - option to switch backgrounds on the page
 - option to hide the photo on the page
 
-### Screenshots
-![homepage](https://raw.githubusercontent.com/JablonskaAleksandra/homepage/main/images/homepageScreenshot.png)
-
 
 &nbsp;
  
@@ -79,14 +76,9 @@ The project was completed because I completed all the tasks that were stipulated
 ### 🙋‍♂️ Feel free to contact me
 Write sth nice ;) Find me on:
 
-<<<<<<< HEAD
 [Facebook](https://www.facebook.com/profile.php?id=100000886447163) or [Instagram](https://www.instagram.com/_nemeyeth_/)
-=======
-[Facebook](https://www.facebook.com/profile.php?id=100000886447163) or [Instagram](https://www.instagram.com/_nemeyeth_/) 
->>>>>>> e5c4ee3f4fce59318d22b6760c5081ad94e34fae
-
 
 &nbsp;
 
 ## 👏 Special thanks
-Thanks to my Mentros from (https://youcode.pl/) – for providing me with this task and for code review.
+Thanks to my Mentors from (https://youcode.pl/) – for providing me with this task and for code review.
